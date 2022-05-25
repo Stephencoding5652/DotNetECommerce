@@ -1,0 +1,7 @@
+bin
+obj
+*.db
+*.rdb
+appsettings.json
+wwwroot
+publish
